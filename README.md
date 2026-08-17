@@ -18,6 +18,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KshahdK&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Shahad's Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshahdK&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
 </div>
 
 ### ✍️ Random Dev Quote
