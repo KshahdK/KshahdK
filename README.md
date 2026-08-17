@@ -14,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=KshahdK&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KshahdK&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KshahdK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KshahdK&layout=compact&theme=tokyonight)
 
 </div>
 
