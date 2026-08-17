@@ -14,7 +14,9 @@
 ![](https://streak-stats.demolab.com/?user=KshahdK&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KshahdK&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KshahdK&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KshahdK&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Shahad's Trophies" />
+</p>
 
 </div>
 
