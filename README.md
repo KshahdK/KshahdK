@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahad Al-Qurashi</h1>
 
+![Snake animation](https://github.com/KshahdK/KshahdK/blob/output/github-contribution-grid-snake.svg)
+
 # 💫 About Me:
 🎓 Education: Information Security Graduate (UQU) & current Computer Science student.<br>🛡️ Focus: Penetration testing, vulnerability research, and bug bounty hunting.<br>🔍 What I Do: Analyze system logic, intercept web traffic, craft payloads, and hunt down elusive security flaws.<br>🎯 The Goal: Combining strong software engineering foundations with hands-on ethical hacking to break and secure applications.
 
