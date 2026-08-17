@@ -28,7 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KshahdK&icon=3&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=KshahdK&icon=3&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
