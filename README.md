@@ -19,7 +19,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KshahdK&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KshahdK&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </p>
 
 </div>
