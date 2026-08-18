@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="./banne%20.svg" alt="Banne" />
+  <a href="https://github.com/KshahdK">
+    <img src="./banne.svg" alt="Shahad Al-Qurashi" />
+  </a>
 </p>
 
 
