@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋</h1>
 
-[![Shahad Al-Qurashi](./assets/banne.svg)](https://github.com/KshahdK)
+<p align="center">
+  <img src="./banne%20.svg" alt="Banner" />
+</p>
 
 
 # 💫 About Me:
