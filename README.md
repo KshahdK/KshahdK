@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="./banne%20.svg" alt="Banner" />
+  <img src="./banne%20.svg" alt="Banne" />
 </p>
 
 
